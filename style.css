@@ -101,3 +101,9 @@ ul li span:hover{
     background-color: #edeef0;
 
 }
+@media screen and (max-width: 480px) {
+    .row{
+    padding-left: 3px;
+
+    }   
+  }
